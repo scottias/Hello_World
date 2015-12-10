@@ -18,8 +18,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageButton"
         android:background="@mipmap/waffle"
-        android:layout_marginTop="145dp"
-        android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+      android:contentDescription="@string/waffle"
+      android:layout_centerVertical="true"
+      android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
